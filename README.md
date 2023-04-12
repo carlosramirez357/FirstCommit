@@ -1,6 +1,6 @@
 # Camper Café
 
-> Set up the project, the goal here is to master the tools and best practices about Linter, Gitflow, pair programming while we make a coffeshop website. 
+> Set up the project, the goal here is to master the tools and best practices about Linter, Gitflow, pair programming while we make a coffeshop menu. 
 
 Original Design
 ![Campe_Cafe](https://user-images.githubusercontent.com/127773967/231599716-4ef710e8-9840-4f0a-b527-1ea812ffa0a2.jpeg)
